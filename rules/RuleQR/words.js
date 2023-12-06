@@ -3,11 +3,12 @@ const words = [
 	'SNEHILRULES',
 	'HELLOWORLD',
 	'IAMSODUMB',
+	'ISUCKATTHIS',
 	'SNEHILISLEGEND',
-	'LMAOHEHE',
+	// 'LMAOHEHE',
 	'IWILLMARRYSNEHIL',
 	'SNEHILISGREAT',
-	'WRONGPASSWORD'
+	// 'WRONGPASSWORD'
 ]
 
 export default function getRandomWord() {
